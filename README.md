@@ -71,8 +71,10 @@ Projet réalisé en collaboration avec mon père, de la phase de conception jusq
 ---
 
 ##  Galerie
+## Galerie
 
-<img src="Capture%20d%E2%80%99e%CC%81cran%202026-02-26%20a%CC%80%2019.47.09.png" width="600">
+![Mur d'escalade](Capture d’écran 2026-02-26 à 19.47.09.png)
+
 ---
 
 ##  Perspectives d’amélioration
